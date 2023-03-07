@@ -1,5 +1,6 @@
 # banana-milk
 a Last.fm Discord bot
+for a copy of this bot to be functional, an API Key and Discord Token must be provided :)
 
 ## command overview
 banana milk#7927
