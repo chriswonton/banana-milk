@@ -89,4 +89,4 @@ MongoClient.connect(url, { useNewUrlParser : true }, async function(err, db) {
     });
 });
 
-client.login("MTA0NDg2MjQ1NDE5NjM1NTEzMw.G5ETpy.BRuAbx5esafsS0HKWYO8uYo184QPk4TWDkNlSI");
+client.login("");
